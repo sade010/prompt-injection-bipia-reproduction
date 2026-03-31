@@ -1,0 +1,5 @@
+system,malicious_follow_rate,attack_refusal_rate,attack_benign_goal_preservation,benign_false_positive_rate,benign_utility
+baseline,0.1667,0.2083,0.7083,0.0,0.5833
+explicit_reminder,0.0833,0.4167,0.5417,0.0,0.5
+boundary_awareness,0.0417,0.0417,0.9167,0.0,0.5833
+combined_defense,0.0417,0.125,0.8333,0.0,0.5833
